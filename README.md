@@ -25,3 +25,9 @@ SWI-Prolog
 View full restaurant profile  
 Get filtered recommendations  
 Search by cuisine
+
+## DEMO
+Example Output
+===== Top Rated Restaurants (4.5+) =====
+pizza_hut | italian | Rating: 4.5 | Distance: 3 km
+sushi_house | japanese | Rating: 4.7 | Distance: 5 km
