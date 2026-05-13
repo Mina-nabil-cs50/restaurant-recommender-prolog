@@ -1,12 +1,3 @@
-%Team members 
-%Menreet Mina 202403176
-%Jana Walid 202403271
-%Passant Hussien 202403146
-%Mina Nabil 202403811
-%Yassa Saied 202304635
-
-
-
 % Facts
 % Restaurant Facts
 restaurant(pizza_hut, italian, medium_price, 4.5, 3).
