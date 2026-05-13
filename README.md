@@ -17,9 +17,9 @@ SWI-Prolog
 1. Install SWI-Prolog
 2. Load main.pl
 
-?- consult(main). 
-?- [main].
-?- menu_loop.
+1. ?- consult(main). 
+2. ?- [main].
+3. ?- menu_loop.
 
 ## Example Queries
 View full restaurant profile  
