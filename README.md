@@ -1,4 +1,4 @@
-#DineSmart Restaurant Recommender(Prolog)
+# DineSmart Restaurant Recommender(Prolog)
 A knowledge based restaurant recommendation system using Prolog.
 
 ## Features
@@ -9,7 +9,7 @@ A knowledge based restaurant recommendation system using Prolog.
 -Rating recommendation system
 -Interactive menu system
 
-##Technologies
+## Technologies
 Prolog
 SWI-Prolog
 
