@@ -31,3 +31,5 @@ Example Output
 ===== Top Rated Restaurants (4.5+) =====
 pizza_hut | italian | Rating: 4.5 | Distance: 3 km
 sushi_house | japanese | Rating: 4.7 | Distance: 5 km
+<img width="699" height="489" alt="image" src="https://github.com/user-attachments/assets/838e968c-6213-4d66-a9e3-5dd071293ea5" />
+
